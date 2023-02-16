@@ -1,0 +1,32 @@
+{
+  "id": "64a54c6a-1351-4d2b-898e-78bb8183a162",
+  "name": "NAMSHIBC",
+  "publisher": "NAMSHI-ERP",
+  "version": "1.0.0.1",
+  "brief": "Namshi Nav 2018 to BC migration",
+  "description": "Created to migrate namshi Navision 2018 to Busincess central" ,
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "21.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
